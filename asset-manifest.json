@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/teslaclone.github.io/static/css/main.c0e7e068.css",
+    "main.js": "/teslaclone.github.io/static/js/main.cb87bef8.js",
+    "static/js/787.860837ff.chunk.js": "/teslaclone.github.io/static/js/787.860837ff.chunk.js",
+    "static/media/model-s.jpg": "/teslaclone.github.io/static/media/model-s.b65171b9fc7d94857753.jpg",
+    "index.html": "/teslaclone.github.io/index.html",
+    "main.c0e7e068.css.map": "/teslaclone.github.io/static/css/main.c0e7e068.css.map",
+    "main.cb87bef8.js.map": "/teslaclone.github.io/static/js/main.cb87bef8.js.map",
+    "787.860837ff.chunk.js.map": "/teslaclone.github.io/static/js/787.860837ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e7e068.css",
+    "static/js/main.cb87bef8.js"
+  ]
+}
